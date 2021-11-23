@@ -1,0 +1,57 @@
+.offer__title {
+  font-family: "Steinbeck-Regular";
+  font-weight: normal;
+  font-size: 32px;
+  background-image: 36px;
+
+  width: 250px;
+  margin-top: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
+
+.offer__italic {
+  font-family: "Steinbeck-Regular";
+  font-style: italic;
+}
+
+.offer__desk {
+  font-family: "Moderat-Regular";
+  font-weight: normal;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+
+  margin-top: 20px;
+  margin-bottom: 10px;
+}
+
+
+.offer__item {
+  display: flex;
+  margin-top: 10px;
+  background-color: rgba(0 ,0, 0, 0.03);
+  border-radius: 8px;
+}
+
+.item__number {
+  background-color: #23786e;
+  color: white;
+  width: 30px;
+  height: 30px;
+  line-height: 30px;
+  margin: 1em;
+  border-radius: 50%;
+  text-align: center;
+}
+
+.item__desk {
+  margin-top: 20px;
+  font-family: "Moderat-Regular";
+  font-weight: bold;
+  font-style: normal;
+  font-size: 15px;
+  line-height: 20px;
+}
